@@ -13,7 +13,11 @@ git commit -m "initial commit"
 
     egy régebbi verzióra is vissza lehet állni 
 
-git checkout verziószám
+git checkout `commit hash` (a git log-al lehet előhozni ,verziószám) // visszaállítja a verziót, vagy branchek között váltunk 
+
+git switch - // visszaállítja a verziót, amiről visszamentünk 
+
+
 
 
 

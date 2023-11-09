@@ -28,9 +28,9 @@ cd.. // visszamegy egy mappával feljebb
 
 code . //nyit egy VS code-ot ebbe a mappába
 
-rm // törlés
+rm // file törlés
 
-rm -Force .git // rejtett fájlokat lehet ezzel törölni 
+rm -Force .git // rejtett fájlokat lehet ezzel törölni, rá kell majd nyomni az "Y"-ra
 
 . // ebben a mappában csinálunk valamit 
 
