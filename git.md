@@ -17,7 +17,16 @@ git checkout `commit hash` (a git log-al lehet előhozni ,verziószám) // vissz
 
 git switch - // visszaállítja a verziót, amiről visszamentünk 
 
+git branch -M main // átállítja a master branch nevét main-re (Black lifes matter miatt)
+     így lehet átírni: git config --global init.defaultBranch main
 
+
+git remote -v // kiloggolja hogy van e remote repository
+
+git remote add origin https://github.com/TormasiPetra/cheatsheets.git // azt az URL-t a githubról lehet kinyerni, repo létrehozás után 
+
+git push // felpussolja a verziót 
+git push --set-upstream origin master // a legelső pushnál kell, megmondja hogy a neve ugyanaz legyen 
 
 
 

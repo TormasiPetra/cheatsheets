@@ -38,3 +38,5 @@ rm -Force .git // rejtett fájlokat lehet ezzel törölni, rá kell majd nyomni 
 
 
 
+
+
