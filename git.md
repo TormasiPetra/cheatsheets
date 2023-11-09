@@ -28,5 +28,14 @@ git remote add origin https://github.com/TormasiPetra/cheatsheets.git // azt az 
 git push // felpussolja a verziót 
 git push --set-upstream origin master // a legelső pushnál kell, megmondja hogy a neve ugyanaz legyen 
 
+Sorban: 
+    git add . 
+    git commit -m "commit"
+    git push
+
+Clone repository: 
+    git clone https://github.com/pavaberna/cheatsheets.git BerniCheatSheets
+
+git pull // leszedi a módosításokat 
 
 
