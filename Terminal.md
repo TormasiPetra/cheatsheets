@@ -32,6 +32,8 @@ rm // törlés
 
 rm -Force .git // rejtett fájlokat lehet ezzel törölni 
 
+. // ebben a mappában csinálunk valamit 
+
 
 
 
