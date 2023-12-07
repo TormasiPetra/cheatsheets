@@ -39,3 +39,7 @@ Clone repository:
 git pull // leszedi a módosításokat 
 
 
+git ignore // megadjuk, hogy milyem file.okat nem akarunk verziókövetni
+    pl.: node modules belemehet
+    
+rm -rf .git // minden eddigi git log-ot töröl

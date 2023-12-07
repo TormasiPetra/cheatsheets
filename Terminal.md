@@ -9,13 +9,13 @@ cd // change directory
 
 mkdir // mappa létrehozása, camelCase legyen az elnevezés 
 
-npm init
+npm init // utána sok sok enter, megismeri, hogy ebbe a mappába fogunk dolgozni
 
 npm install -D typescript // installálja az adott dolgot, amit már mások leprogramoztak 
 
-npx tsc --init
+npx tsc --init // konfiguráljuk a typescriptet is, lértehozza a tsconfig.json filet 
 
-npm run build 
+npm run build // elkészíti a js filet 
 
 node // itt is lehet ezzel futtatni js fájlokat
 
