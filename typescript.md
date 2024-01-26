@@ -8,3 +8,14 @@ npm run build // elkészíti a js filet
 
 file-ban ignorálja a közte lévő sorokat:
     //@ts-ignore
+
+in packageJson: 
+    allowJS: true
+    checkJS: false;
+
+tsconfig.json:
+    rootDir
+    outDir
+
+"build" : "tsc, 
+"start": "node out/index.js"
